@@ -18,6 +18,9 @@ A multimodal AI-powered assistant that uses Google’s **MedGemma 4B** model to 
 - `gradio`
 - `torch`
 - `PIL`
+
+  ## 📹 Project Demo
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1GX-KaSPVqzqV-wp7_0031p4bTULNXMqm/view?usp=sharing)
   
 ## 🖥️ Running the Project
 Run the notebook directly in Google Colab for GPU acceleration
