@@ -20,7 +20,7 @@ A multimodal AI-powered assistant that uses Google’s **MedGemma 4B** model to 
 - `PIL`
 
   ## 📹 Project Demo
-[Watch the demo video on Google Drive](https://drive.google.com/file/d/1GX-KaSPVqzqV-wp7_0031p4bTULNXMqm/view?usp=sharing)
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1HBQHAJfq8Ypghj24PLaZ3o5S4vCiN8J0/view?usp=sharing)
 
 ## ⚠️ Data Privacy & Usage Disclaimer
 
