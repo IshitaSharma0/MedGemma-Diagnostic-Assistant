@@ -48,4 +48,6 @@ By using this repository, you acknowledge that:
   
 ## 🖥️ Running the Project
 Run the notebook directly in Google Colab for GPU acceleration
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IPXs9Qjggbm7MqANjipcpEJZdVOlC9qe?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12gL8445F8qTLZNjUCwa7IUX_kH9mRjG-?usp=sharing)
+
+
