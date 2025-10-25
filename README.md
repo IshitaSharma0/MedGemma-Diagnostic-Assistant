@@ -26,7 +26,7 @@ A multimodal AI-powered assistant that uses Google’s **MedGemma 4B** model to 
 
 This project is intended for **research and educational purposes only**.
 
-Please **DO NOT upload any real, identifiable, or sensitive patient data** (such as actual X-ray, CT, or MRI scans containing personal information) to the Google Colab notebook or any public cloud environment linked to this repository.
+Please **DO NOT upload any real, identifiable, or sensitive patient data** (such as actual X-ray, CT, or MRI scans containing personal information) to the Google Colab notebook linked to this repository.
 
 If you choose to test the model, ensure that:
 
